@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               hlúposti
-tagline:             The Jekyll Butler
+tagline:             rozličné veci, ktoré mi napadli
 url:                 http://hluposti.github.io
 paginate:            1
 baseurl:             ""
