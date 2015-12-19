@@ -21,18 +21,18 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Staršie</a>
   {% else %}
-    <span class="pagination-item older">Older</span>
+    <span class="pagination-item older">Staršie</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
+      <a class="pagination-item newer" href="/">Novšie</a>
     {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Novšie</a>
     {% endif %}
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+    <span class="pagination-item newer">Novšie</span>
   {% endif %}
 </div>
 
