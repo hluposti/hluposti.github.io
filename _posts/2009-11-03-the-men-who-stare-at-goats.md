@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The Men Who Stare at Goats
-tags: PSA, archive_posterous
+tags: archive_posterous
 ---
 Príspevok pôvodne zverejnený na [http://laki.posterous.com/the-men-who-stare-at-goats-24](http://laki.posterous.com/the-men-who-stare-at-goats-24)
 
 ***
-![men_who_stare_at_goats_ver2.jpg](/media/2009/men_who_stare_at_goats_ver2.jpg)
+![men_who_stare_at_goats_ver2.jpg](/media/2009/men_who_stare_at_goats_ver2.jpg =250x)
 
 Excellent posters for a very promising movie. Premiere in a few days…
 
