@@ -7,7 +7,7 @@ tags:
 > Príspevok pôvodne zverejnený na [http://laki.posterous.com/the-men-who-stare-at-goats-24](http://laki.posterous.com/the-men-who-stare-at-goats-24)
 
 ***
-[men_who_stare_at_goats_ver2.jpg](/media/2009/men_who_stare_at_goats_ver2.jpg) | [men_who_stare_at_goats_ver3.jpg](/media/2009/men_who_stare_at_goats_ver3.jpg) | [men_who_stare_at_goats_ver4.jpg](/media/2009/men_who_stare_at_goats_ver4.jpg) | [men_who_stare_at_goats_ver5.jpg](/media/2009/men_who_stare_at_goats_ver5.jpg)
+[men\_who\_stare\_at\_goats\_ver2.jpg](/media/2009/men_who_stare_at_goats_ver2.jpg) | [men\_who\_stare\_at\_goats\_ver3.jpg](/media/2009/men_who_stare_at_goats_ver3.jpg) | [men\_who\_stare\_at\_goats\_ver4.jpg](/media/2009/men_who_stare_at_goats_ver4.jpg) | [men\_who\_stare\_at\_goats\_ver5.jpg](/media/2009/men_who_stare_at_goats_ver5.jpg)
 
 Excellent posters for a very promising movie. Premiere in a few days…
 
