@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Moje hlúposti odteraz na Tumblri
-tags: PSA, archive_Tumblr
+tags:
+- PSA
+- archive_wordpress
+- archive_tumblr
 ---
-
-Príspevok pôvodne zverejnený na [http://hluposti.tumblr.com/post/25579274099/moje-hluposti-odteraz-na-tumblri](http://hluposti.tumblr.com/post/25579274099/moje-hluposti-odteraz-na-tumblri)
-
-***
+> Príspevok pôvodne zverejnený na [http://hluposti.tumblr.com/post/25579274099/moje-hluposti-odteraz-na-tumblri](http://hluposti.tumblr.com/post/25579274099/moje-hluposti-odteraz-na-tumblri), resp. [https://hluposti.wordpress.com/2012/06/21/moje-hluposti-odteraz-na-tumblri/](https://hluposti.wordpress.com/2012/06/21/moje-hluposti-odteraz-na-tumblri/)
 
 Presťahoval som sa z [WordPressu](http://hluposti.wordpress.com/) na [Tumblr](http://hluposti.tumblr.com/). 
 
