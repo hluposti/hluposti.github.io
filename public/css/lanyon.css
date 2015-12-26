@@ -320,13 +320,6 @@ a.sidebar-nav-item:focus {
   white-space: nowrap;
 }
 
-.post-tags{
-  margin-top: -.5rem;
-  margin-bottom: 1rem;
-  color: #9a9a9a;
-  text-align: right;
-}
-
 /* Related posts */
 .related {
   padding-top: 2rem;
