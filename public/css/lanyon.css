@@ -34,13 +34,14 @@
  * Update the foundational and global aspects of the page.
  */
 
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+
 /* Prevent scroll on narrow devices */
+
 html,
 body {
   overflow-x: hidden;
 }
-
-@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
 
 html {
   font-family: "EB Garamond", "Adobe Garamond Pro", Garamond, "Hoefler Text", Georgia, serif;;
