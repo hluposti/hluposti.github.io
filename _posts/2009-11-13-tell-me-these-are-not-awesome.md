@@ -3,7 +3,6 @@ layout: post
 title: Tell me these are not awesome
 tags:
 - archive_posterous
-- test
 ---
 > Príspevok pôvodne zverejnený na [http://laki.posterous.com/tell-me-these-are-not-awesome](http://laki.posterous.com/tell-me-these-are-not-awesome)
 

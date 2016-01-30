@@ -2,7 +2,6 @@
 layout: post
 title: Moje hlúposti odteraz na Tumblri
 tags:
-- PSA
 - archive_wordpress
 - archive_tumblr
 ---
