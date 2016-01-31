@@ -35,7 +35,7 @@
  */
 
 @import url(https://fonts.googleapis.com/css?family=EB+Garamond);
-@import url(https://fonts.googleapis.com/css?family=Lora);
+@import url(https://fonts.googleapis.com/css?family=Lora&subset=latin,latin-ext);
 
 /* Prevent scroll on narrow devices */
 
