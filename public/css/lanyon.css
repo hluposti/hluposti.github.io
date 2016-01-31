@@ -34,8 +34,8 @@
  * Update the foundational and global aspects of the page.
  */
 
-@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Didact+Gothic&subset=latin,latin-ext);
 
 /* Prevent scroll on narrow devices */
 
@@ -45,13 +45,12 @@ body {
 }
 
 html {
-  font-family: Lora, Palatino, Georgia, serif;
-  /* font-size: 1em; 16px */
+  font-family: Lora, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif;
-  font-weight: normal;
+  font-family: "Didact Gothic", Gill Sans, Gill Sans MT, Calibri, sans-serif;
+  /* font-weight: normal; */
   color: #313131;
 }
 
