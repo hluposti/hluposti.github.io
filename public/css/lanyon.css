@@ -45,7 +45,8 @@ body {
 }
 
 html {
-  font-family: Merriweather, Garamond, "Hoefler Text", Georgia, serif;
+  font-family: 'Merriweather', Palatino, Georgia, serif;
+  font-size: .75rem; /* 14px */
 }
 
 h1, h2, h3, h4, h5, h6 {
