@@ -35,6 +35,7 @@
  */
 
 @import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
 
 /* Prevent scroll on narrow devices */
 
@@ -44,7 +45,7 @@ body {
 }
 
 html {
-  font-family: "EB Garamond", "Adobe Garamond Pro", Garamond, "Hoefler Text", Georgia, serif;
+  font-family: Merriweather, Garamond, "Hoefler Text", Georgia, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
