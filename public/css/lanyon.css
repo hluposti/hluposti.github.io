@@ -35,7 +35,7 @@
  */
 
 @import url(https://fonts.googleapis.com/css?family=EB+Garamond);
-@import url(https://fonts.googleapis.com/css?family=Merriweather);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:300,300italic&subset=latin,latin-ext);
 
 /* Prevent scroll on narrow devices */
 
