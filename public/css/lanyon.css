@@ -35,7 +35,7 @@
  */
 
 @import url(https://fonts.googleapis.com/css?family=EB+Garamond);
-@import url(https://fonts.googleapis.com/css?family=Merriweather&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Lora);
 
 /* Prevent scroll on narrow devices */
 
@@ -45,8 +45,8 @@ body {
 }
 
 html {
-  font-family: 'Merriweather', Palatino, Georgia, serif;
-  font-size: 1em; /* 16px */
+  font-family: Lora, Palatino, Georgia, serif;
+  /* font-size: 1em; 16px */
 }
 
 h1, h2, h3, h4, h5, h6 {
