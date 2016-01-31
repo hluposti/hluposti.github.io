@@ -35,7 +35,7 @@
  */
 
 @import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic&subset=latin,latin-ext);
-@import url(https://fonts.googleapis.com/css?family=Didact+Gothic&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:700&subset=latin,latin-ext);
 
 /* Prevent scroll on narrow devices */
 
@@ -49,8 +49,8 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Didact Gothic", Gill Sans, Gill Sans MT, Calibri, sans-serif;
-  font-weight: bold;
+  font-family: "Alegreya Sans", Gill Sans, Gill Sans MT, Calibri, sans-serif;
+  /* font-weight: bold; */
   color: #313131;
 }
 
