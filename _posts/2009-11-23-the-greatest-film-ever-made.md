@@ -19,7 +19,6 @@ tags:
 ![rushmore11.jpg](/media/2009/rushmore11.jpg){:width="500px"}
 ![rushmore12.jpg](/media/2009/rushmore12.jpg){:width="500px"}
 ![rushmore13.jpg](/media/2009/rushmore13.jpg){:width="500px"}
-![rushmore14.jpg](/media/2009/rushmore14.jpg){:width="500px"}
 ![rushmore15.jpg](/media/2009/rushmore15.jpg){:width="500px"}
 ![rushmore16.jpg](/media/2009/rushmore16.jpg){:width="500px"}
 ![rushmore17.jpg](/media/2009/rushmore17.jpg){:width="500px"}
