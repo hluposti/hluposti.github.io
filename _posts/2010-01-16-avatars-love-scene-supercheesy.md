@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Avatar's love scene: supercheesy
+title: "Avatar's love scene: supercheesy"
 tags:
 - archive_posterous
 ---
@@ -11,17 +11,11 @@ Avatar's screenplay contains also that part of the love scene which was left out
 (dialog extract)
 
 > **Neytiri:** You are Omaticaya now. You may make own bow from the wood of Hometree. And you may choose a woman. We have many fine women. Ninat is the best singer --
-
 > **Jake:** I don’t want Ninat.
-
 > **Neytiri:** There is Beyral -- she is a good hunter --
-
 > **Jake:** I’ve already chosen. But this woman must also choose me.
-
 > **Neytiri:** She already has.
-
 > *(they kiss)*
-
 > **Neytiri:** Kissing is very good. But we have something better.
 
 WHAT?! When I'm reading those words, there's a girl pronouncing them with a strong Russian accent and unbelting a half-naked hunky guy at the same time in my head. Simply horrible.
