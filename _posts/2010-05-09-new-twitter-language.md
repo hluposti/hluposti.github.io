@@ -6,7 +6,7 @@ tags:
 ---
 > Príspevok pôvodne zverejnený na [http://laki.posterous.com/new-twitter-language](http://laki.posterous.com/new-twitter-language)
 
-**tl;dr version:** Starting with my 2000th tweet I'm going to tweet in Slovak, with occasional exceptions of English tweets.**
+***tl;dr version:*** **Starting with my 2000th tweet I'm going to tweet in Slovak, with occasional exceptions of English tweets.**
 
 Illness and boredom, I'm currently experiencing, made me think and I came to a conclusion as regards my recent thoughts on changing the language I'm tweeting in.
 
