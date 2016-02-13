@@ -6,7 +6,7 @@ tags:
 ---
 > Príspevok pôvodne zverejnený na [http://laki.posterous.com/new-twitter-language](http://laki.posterous.com/new-twitter-language)
 
-__**tl;dr version:**__ Starting with my 2000th tweet I'm going to tweet in Slovak, with occasional exceptions of English tweets.**
+**tl;dr version:** Starting with my 2000th tweet I'm going to tweet in Slovak, with occasional exceptions of English tweets.**
 
 Illness and boredom, I'm currently experiencing, made me think and I came to a conclusion as regards my recent thoughts on changing the language I'm tweeting in.
 
@@ -24,8 +24,8 @@ But since I started tweeting regularly - [almost a year ago](https://twitter.com
 
 Therefore I decided to start tweeting in Slovak. Actually, there are three reasons why:
 
-**1.** As mentioned above, twitter search is not what it used to be and now I don't need to feel bad about making the search results incomprehensible by using a non-English language because they already are, more or less, incomprehensible.
-**2.** Also mentioned before, “national communities” have been created and I feel that tweeting in English from a non-English speaking country puts me somewhere in between communities. I don't mind being a loner, but it would be nice to get more than 0-1 replies to my tweets and it's not going to happen if I don't incorporate myself anywhere.
+**1.** As mentioned above, twitter search is not what it used to be and now I don't need to feel bad about making the search results incomprehensible by using a non-English language because they already are, more or less, incomprehensible.  
+**2.** Also mentioned before, “national communities” have been created and I feel that tweeting in English from a non-English speaking country puts me somewhere in between communities. I don't mind being a loner, but it would be nice to get more than 0-1 replies to my tweets and it's not going to happen if I don't incorporate myself anywhere.  
 **3.** Sometimes I experience things worth tweeting but informing about them in English would make no sense because they're not relevant for people living elsewhere and for (most of the) people living where I live it's easier to ignore them than to read them in English.
 
 In order to retain a certain value of information, I will try using English occasionally, when using hashtags relevant for international twitterers, for example.
