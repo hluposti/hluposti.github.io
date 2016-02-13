@@ -10,13 +10,12 @@ NewTwitter je skutočne skvelý, priniesol mnoho vylepšení a je prívetivejš�
 
 ![tw1.png](/media/2010/tw1.png){:width="500px"}
 
-**1. Also followed by**
+**1. Also followed by**  
 Užitočný súrodenec otravného *Who to follow*, ktoré bude časom viac reklamou než nápomocnou službou. Also followed by bolo výborné v tom, že po otvorení profilu cudzieho človeka som hneď vedel, kto z ľudí, ktorých poznám ho sleduje a tým pádom som vedel hneď rozhodnúť, či má zmysel dávať mu šancu aj keď jeho súčasné tweety sú trochu nezaujímavé.
 
 V NewTwitter táto služba chýba úplne, resp. nepodarilo sa mi ju nikde nájsť. Preveľká škoda.
 
-**2. Your lists**
-
+**2. Your lists**  
 Po otvorení profilu človeka, ktorého sledujem som v OldTwitteri okamžite vedel, či ho mám zaradeného do nejakého listu. Veľmi užitočná vec, hlavne pri unfollowe. Otravného človeka predsa nechcem vymazať len zo sledovaných užíveteľov, ale aj z listov.
 
 Dnes po otvorení profilu vidím len toto:
