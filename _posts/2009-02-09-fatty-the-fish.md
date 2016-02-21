@@ -8,7 +8,7 @@ tags:
 
 Let's stick to animals for one more time…
 
-[![][pic1]][]
+[![][pic1]][2]
 
 [1]: http://drhorrible.wordpress.com/2009/02/09/fatty-the-fish/
 [2]: http://www.youtube.com/watch?v=-gYB0YyeOFg
