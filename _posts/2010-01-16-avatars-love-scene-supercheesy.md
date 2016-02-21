@@ -4,7 +4,7 @@ title: "Avatar's love scene: supercheesy"
 tags:
 - archive_posterous
 ---
-> Príspevok pôvodne zverejnený na [http://laki.posterous.com/avatars-love-scene-supercheesy](http://laki.posterous.com/avatars-love-scene-supercheesy)
+> Príspevok pôvodne zverejnený na [http://laki.posterous.com/avatars-love-scene-supercheesy][1]
 
 Avatar's screenplay contains also that part of the love scene which was left out of the theatrical cut, and which should later be included on DVD/BD. And its introduction is unbelievably cheesy and sounds like an introduction to a porn video. See for yourselves:
 
@@ -22,4 +22,7 @@ WHAT?! When I'm reading those words, there's a girl pronouncing them with a stro
 
 The whole screenplay is attached below, you can find the complete “we have something better” part on pages 90-91.
 
-[Avatar.PDF](/media/2010/Avatar.PDF)
+[Avatar.PDF][file1]
+
+[1]: http://laki.posterous.com/avatars-love-scene-supercheesy
+[file1]: /media/2010/Avatar.PDF

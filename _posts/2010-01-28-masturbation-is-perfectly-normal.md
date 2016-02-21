@@ -4,9 +4,9 @@ title: Masturbation is Perfectly Normal
 tags:
 - archive_posterous
 ---
-> Príspevok pôvodne zverejnený na [http://laki.posterous.com/masturbation-is-perfectly-normal](http://laki.posterous.com/masturbation-is-perfectly-normal)
+> Príspevok pôvodne zverejnený na [http://laki.posterous.com/masturbation-is-perfectly-normal][1]
 
-[http://www.youtube.com/watch?v=MhoZ2AVO2Ww](http://www.youtube.com/watch?v=MhoZ2AVO2Ww)
+[http://www.youtube.com/watch?v=MhoZ2AVO2Ww][2]
 
 I can't decide what's the creepiest thing about this video…
 
@@ -18,3 +18,6 @@ The mother's plastic speech?
 The content of the speech?  
 The endlessness of the speech?  
 Or the awful music which will stick in your head for the rest of the day?
+
+[1]: http://laki.posterous.com/masturbation-is-perfectly-normal
+[2]: http://www.youtube.com/watch?v=MhoZ2AVO2Ww

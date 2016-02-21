@@ -4,23 +4,23 @@ title: New Twitter Language
 tags:
 - archive_posterous
 ---
-> Príspevok pôvodne zverejnený na [http://laki.posterous.com/new-twitter-language](http://laki.posterous.com/new-twitter-language)
+> Príspevok pôvodne zverejnený na [http://laki.posterous.com/new-twitter-language][1]
 
 ***tl;dr version:*** **Starting with my 2000th tweet I'm going to tweet in Slovak, with occasional exceptions of English tweets.**
 
 Illness and boredom, I'm currently experiencing, made me think and I came to a conclusion as regards my recent thoughts on changing the language I'm tweeting in.
 
-I consider(ed) [twitter](https://twitter.com/) very useful because of its search function. Whenever I was interested in general opinion on something or the latest news regarding certain subject, it was enough to open twitter or a twitter client - if I hadn't have it open already - and do a little search.
+I consider(ed) [twitter][2] very useful because of its search function. Whenever I was interested in general opinion on something or the latest news regarding certain subject, it was enough to open twitter or a twitter client - if I hadn't have it open already - and do a little search.
 
-For example, I wanted to know whether it is worth seeing [Surrogates](http://www.imdb.com/title/tt0986263/). I made a [twitter search](https://twitter.com/#search?q=Surrogates) and found out it sucks. I went to see it anyway and it indeed sucked but that's not the point. I had the answer/opinion right away. Or if I wanted to know what other people think of the latest [Office](http://www.imdb.com/title/tt0386676/) episode, all I needed to do was type “[#theoffice](https://twitter.com/#search?q=%23theoffice)” into the search box.
+For example, I wanted to know whether it is worth seeing [Surrogates][3]. I made a [twitter search][4] and found out it sucks. I went to see it anyway and it indeed sucked but that's not the point. I had the answer/opinion right away. Or if I wanted to know what other people think of the latest [Office][5] episode, all I needed to do was type “[#theoffice][6]” into the search box.
 
-But things have changed. When I do a twitter search today, I get a list of the 20 latest tweets containing the searched word, phrase or hashtag, but of all the 20 tweets, often only 5 are in English. Sure, I can extend the list and read more tweets, but again, only a small part of them will be understandable for me. An extreme example might be the twitter application I use on my phone, called “[twicca](lab.r246.jp/twicca/)”. It's of Japanese origin and when I search for it in twitter, to find out what people think about it, the search returns [tweets](https://twitter.com/#search?q=twicca) almost exclusively in Japanese.
+But things have changed. When I do a twitter search today, I get a list of the 20 latest tweets containing the searched word, phrase or hashtag, but of all the 20 tweets, often only 5 are in English. Sure, I can extend the list and read more tweets, but again, only a small part of them will be understandable for me. An extreme example might be the twitter application I use on my phone, called “[twicca][7]”. It's of Japanese origin and when I search for it in twitter, to find out what people think about it, the search returns [tweets][8] almost exclusively in Japanese.
 
 Twitter has grown and got very popular all around the world. I'm happy about this because “the more the merrier”; but more people means more foreign people too and more foreign people means less understanding. And that's what worries me. The global character of twitter has weakened and the service is getting decentralized. Some might like it, I don't. Not at all.
 
 I started tweeting and kept tweeting in English because I enjoyed tweets written in English. I wanted to be part of twitter and felt that if I didn't use English, I'd be an outcast. Also, I was glad that search results are understandable for me, therefore I tried to make my tweets understandable for others as well.
 
-But since I started tweeting regularly - [almost a year ago](https://twitter.com/sotakal/status/1929204981) - the “twitter community” has broken into many “national communities”. In general, only people from English speaking countries tweet in English nowadays, the rest of twitterers tweet in their mother tongues. As I've mentioned, I don't particularly like it, but it's part of twitter's evolution and I need to accept it.
+But since I started tweeting regularly - [almost a year ago][9] - the “twitter community” has broken into many “national communities”. In general, only people from English speaking countries tweet in English nowadays, the rest of twitterers tweet in their mother tongues. As I've mentioned, I don't particularly like it, but it's part of twitter's evolution and I need to accept it.
 
 Therefore I decided to start tweeting in Slovak. Actually, there are three reasons why:
 
@@ -33,3 +33,14 @@ In order to retain a certain value of information, I will try using English occa
 Lastly, I would like to apologize to my English-speaking followers, though I'm not sure I've got many. I'm sorry about this “betrayal”, feel free to unfollow me and rest assured that if I'm following you, I won't unfollow back. Not right now, at least. I started following you for a reason and the reason stays.
 
 Thanks for reading, I hope many of you did, because it took me hell of a time to put this all together.
+
+
+[1]: http://laki.posterous.com/new-twitter-language
+[2]: https://twitter.com/
+[3]: http://www.imdb.com/title/tt0986263/
+[4]: https://twitter.com/#search?q=Surrogates
+[5]: http://www.imdb.com/title/tt0386676/
+[6]: https://twitter.com/#search?q=%23theoffice
+[7]: lab.r246.jp/twicca/
+[8]: https://twitter.com/#search?q=twicca
+[9]: https://twitter.com/sotakal/status/1929204981

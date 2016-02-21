@@ -5,9 +5,9 @@ tags:
 - archive_posterous
 - TV
 ---
-> Príspevok pôvodne zverejnený na [http://laki.posterous.com/pre-odporcov-novej-futuramy](http://laki.posterous.com/pre-odporcov-novej-futuramy)
+> Príspevok pôvodne zverejnený na [http://laki.posterous.com/pre-odporcov-novej-futuramy][1]
 
-V [diskusných fórach na IMDB](http://www.imdb.com/title/tt0149460/board/threads/) som bol nemilo prekvapený počtom ľudí sťažujúcich sa na to, že nová Futurama už nie je čo bývala; mnohí sa nestránia označiť ju za priam katastrofálnu.
+V [diskusných fórach na IMDB][2] som bol nemilo prekvapený počtom ľudí sťažujúcich sa na to, že nová Futurama už nie je čo bývala; mnohí sa nestránia označiť ju za priam katastrofálnu.
 
 Týmto zamyslením isto nič nezmením, ale osobne to vidím tak, že hodnotiť nové epizódy negatívne je v tejto chvíli unáhlené a neobjektívne. Prečo?
 
@@ -21,4 +21,8 @@ Po tretie, očakávania môžu urobiť obrovský rozdiel. Niekto čakal epizódy
 
 Ja osobne som so šiestou sériou spokojný. Nie sú to (zatiaľ) najlepšie epizódy seriálu, ale bavím sa a hoci som možno čakal trochu viac, ešte stále je dosť času na zlepšenie. Ja si zvykám na opätovné sledovanie Futuramy a jej tvorcovia si zvykajú na opätovné písanie Futuramy.
 
-Na záver malá anketka: [Čo si myslíte o zatiaľ odvysielaných epizódach 6. série Futuramy?](http://twtpoll.com/3g5vwj)
+Na záver malá anketka: [Čo si myslíte o zatiaľ odvysielaných epizódach 6. série Futuramy?][3]
+
+[1]: http://laki.posterous.com/pre-odporcov-novej-futuramy
+[2]: http://www.imdb.com/title/tt0149460/board/threads/
+[3]: http://twtpoll.com/3g5vwj

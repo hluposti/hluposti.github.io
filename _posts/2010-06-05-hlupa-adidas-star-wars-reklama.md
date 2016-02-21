@@ -4,11 +4,11 @@ title: Hlúpa Adidas / Star Wars reklama
 tags:
 - archive_posterous
 ---
-> Príspevok pôvodne zverejnený na [http://laki.posterous.com/hlupa-adidas-star-wars-reklama](http://laki.posterous.com/hlupa-adidas-star-wars-reklama)
+> Príspevok pôvodne zverejnený na [http://laki.posterous.com/hlupa-adidas-star-wars-reklama][1]
 
 V posledných pár dňoch vidím všade zmienky o nasledujúcej reklame:
 
-[http://www.youtube.com/watch?v=3Zd_khk6zXo](http://www.youtube.com/watch?v=3Zd_khk6zXo)
+[http://www.youtube.com/watch?v=3Zd_khk6zXo][2]
 
 Absolútne iritujúce!
 
@@ -20,3 +20,6 @@ A moje dôvody?
 * Jediná informácia, ktorú sa mimo propagovanej značky dozvedáme je „celebrate originality“. Nedokážem ale prísť na to, čo originálneho je na použití scény z 33-ročného filmu, v ktorej nahradili pôvodné postavy súčasnými známymi osobnosťami…
 
 Nie som žiadny marketingový génius, avšak samoúčelnosť tejto reklamy musí biť do očí každému inteligentnému človeku.
+
+[1]: http://laki.posterous.com/hlupa-adidas-star-wars-reklama
+[2]: http://www.youtube.com/watch?v=3Zd_khk6zXo

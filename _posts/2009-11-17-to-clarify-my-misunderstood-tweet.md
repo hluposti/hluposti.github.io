@@ -4,14 +4,14 @@ title: To clarify my misunderstood tweet…
 tags:
 - archive_posterous
 ---
-> Príspevok pôvodne zverejnený na [http://laki.posterous.com/to-clarify-my-misunderstood-tweet](http://laki.posterous.com/to-clarify-my-misunderstood-tweet)
+> Príspevok pôvodne zverejnený na [http://laki.posterous.com/to-clarify-my-misunderstood-tweet][1]
 
 A few hours ago, I posted a tweet which has been misunderstood by some people, especially by a bit outraged friend of mine. Therefore I'd like to clarify what I meant and what I didn't mean when I wrote the following:
 
-“It's been 20 years since [#velvetrevolution](https://search.twitter.com/search?q=%23velvetrevolution) and guess what? I don't give a damn. I mean, I'm happy it took place, but I don't get the hype.”
-([http://twitter.com/janlakatos/status/5799435525](http://twitter.com/janlakatos/status/5799435525))
+“It's been 20 years since [#velvetrevolution][2] and guess what? I don't give a damn. I mean, I'm happy it took place, but I don't get the hype.”
+([http://twitter.com/janlakatos/status/5799435525][3]
 
-![HRU2714a2_1989.jpg](/media/2009/HRU2714a2_1989.jpg){:width="500px"}
+![HRU2714a2_1989.jpg][pic1]{:width="500px"}
 
 Velvet Revolution was a huge breaking point and without it I wouldn't be able to even imagine a life I'm living right now. I consider myself very lucky to live in times where I can do whatever I wish and I'm aware of the fact that this wouldn't be possible without the events of November 17, 1989.
 
@@ -24,3 +24,8 @@ I'm one year older. Alright. And what? Why should I celebrate it? Jesus Christ w
 Personally, I don't like celebrating any of my anniversaries and I hate every holiday, maybe with the exception of Christmas. Reasons for that are not the topic of this, already too long, justification, so I won't start explaining them. My point is that ignoring rejoicings is my choice and finding them pointless my opinion. You can't take it from me, you can't forbid me to express it. And that's thanks to the Velvet Revolution.
 
 So thank you, people of '89, for standing up for your rights and for enabling me to tell and do what I wish. I am sorry for not celebrating your brave defiance, but this choice is just part of your legacy and I'm sure you'll understand it if you happen to be reading these lines.
+
+[1]: http://laki.posterous.com/to-clarify-my-misunderstood-tweet
+[2]: https://search.twitter.com/search?q=%23velvetrevolution
+[3]: http://twitter.com/janlakatos/status/5799435525
+[pic1]: /media/2009/HRU2714a2_1989.jpg
