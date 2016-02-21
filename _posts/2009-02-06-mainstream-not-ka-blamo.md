@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mainstream: Not Ka-Blamo!
+title: "Mainstream: Not Ka-Blamo!"
 tags:
 - archive_drhorrible
 ---
