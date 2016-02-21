@@ -6,7 +6,7 @@ tags:
 ---
 > Príspevok pôvodne zverejnený na [http://laki.posterous.com/the-greatest-film-ever-made][1]
 
-![rushmore1.jpg][pic1]:width="500px"}
+![rushmore1.jpg][pic1]{:width="500px"}
 ![rushmore2.jpg][pic2]{:width="500px"}
 ![rushmore3.jpg][pic3]{:width="500px"}
 ![rushmore4.jpg][pic4]{:width="500px"}
