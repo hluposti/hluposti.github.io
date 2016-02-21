@@ -32,7 +32,7 @@ P.S. @[serafinowicz][3]. Sledujte ho. Pre vlastné dobro.
 
 [1]: http://laki.posterous.com/dve-chybicky-newtwitteru
 [2]: http://techcrunch.com/2010/10/13/new-twitter-here/
-[3]: https://twitter.com/serafinowicz)
+[3]: https://twitter.com/serafinowicz
 [pic1]: /media/2010/tw1.png
 [pic2]: /media/2010/tw2.png
 [pic3]: /media/2010/tw3.png
