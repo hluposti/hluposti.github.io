@@ -6,7 +6,7 @@ tags:
 ---
 > Príspevok pôvodne zverejnený na [http://drhorrible.wordpress.com/2009/02/19/the-film-that-will-rock/][1]
 
-[![][1]][2]
+[![][pic1]][2]
 
 [1]: http://drhorrible.wordpress.com/2009/02/19/the-film-that-will-rock/
 [2]: http://www.trailerspy.com/trailer/2497/The-Boat-that-Rocked-Trailer
