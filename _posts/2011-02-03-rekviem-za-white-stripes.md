@@ -11,7 +11,7 @@ Takto som si teda začiatok svojho blogovania určite nepredstavoval. Rozhodne s
 
 Prvýkrát som sa o kapele dozvedel v rámci sledovania Simpsonovcov; konkrétne epizódy [Jazzy and the Pussycats][3]. V tej sa kapela objavila ako hosť, resp. hostia, a ich silné basové bicie, znejúce iba pár sekúnd, ma okamžite zaujali. Tak som si vyhľadal, čo sú zač a narazil som na klip k danej piesni.
 
-[http://www.youtube.com/watch?v=bLxtOk5ojlI][4]
+[http://www.youtube.com/watch?v=bLxtOk5ojlI][4]  
 [http://www.youtube.com/watch?v=gLESpHrtvxs][5]
 
 Bol som ohromený. Sčasti prácou úžasného Michela Gondryho, ktorý videoklip režíroval, ale predovšetkým zvukom kapely. Ako to už býva, jedno YouTube video viedlo k druhému a po niekoľkých minútach som vedel, že si musím zohnať všetky ich albumy.
@@ -24,21 +24,21 @@ Albumy som počúval postupne, v chronologickom poradí, vďaka čomu som si už
 
 Prvou, ktorá ma fakt chytila za srdce bol gigaenergický Cannon, nasledovaný kiloenergickým Astrom, nasledovanými megaenergickými Broken Bricks a tak ďalej. Do kapely som sa zamiloval behom 7 piesní. Niežeby bolo prvých 6 horších, ale práve Cannon bol TEN track, ktorý ma po prvom vypočutí presvedčil, že počúvam niečo, čo sa mi hlboko a natrvalo vryje do mysle.
 
-[http://www.youtube.com/watch?v=mudTIboIYGI][8]
-[http://www.youtube.com/watch?v=lY6gKkB_hew][9]
+[http://www.youtube.com/watch?v=mudTIboIYGI][8]  
+[http://www.youtube.com/watch?v=lY6gKkB_hew][9]  
 [http://www.youtube.com/watch?v=Vtan7A1xBI0][10]
 
 Behom mesiacov počúvania takmer výlučne diskografie White Stripes som si našiel mnoho, mnoho obľúbených skladieb a keď ma ani po vyše roku kapela neprestala ani trochu baviť – čo sa stalo už mnohokrát predtým i potom – uvedomil som si, že som našiel kapelu svojho srdca. A to najlepšie ma ešte len čakalo.
 
 Záznamy z koncertov. Pochválený buď, YouTube. White Stripes na albumoch sú dokonalí. Veľmi subjektívne tvrdenie, viem. Dovolím si však tvrdiť, že ich koncertné vystúpenia sú dokonalé, nech už si o kapele a jej tvorbe myslíte čokoľvek. Ukážkové stelesnenie rocku.
 
-[http://www.youtube.com/watch?v=hlhYJV56b5k][11]
-[http://www.youtube.com/watch?v=in2WoRwmtbg][12]
-[http://www.youtube.com/watch?v=GdY3z5IrkUA][13]
-[http://www.youtube.com/watch?v=gs-E_pVTDaQ][14]
-[http://www.youtube.com/watch?v=Agr3GmFJKEA][15]
-[http://www.youtube.com/watch?v=zX8piT5lOsM][16]
-[http://www.youtube.com/watch?v=Fu_Q0lOJsbU][17]
+[http://www.youtube.com/watch?v=hlhYJV56b5k][11]  
+[http://www.youtube.com/watch?v=in2WoRwmtbg][12]  
+[http://www.youtube.com/watch?v=GdY3z5IrkUA][13]  
+[http://www.youtube.com/watch?v=gs-E_pVTDaQ][14]  
+[http://www.youtube.com/watch?v=Agr3GmFJKEA][15]  
+[http://www.youtube.com/watch?v=zX8piT5lOsM][16]  
+[http://www.youtube.com/watch?v=Fu_Q0lOJsbU][17]  
 [http://www.youtube.com/watch?v=JOjyURPJBjY][18]
 
 Čo ma vedie k najsmutnejšej veci na rozpade kapely. Nepodarilo sa mi zažiť White Stripes naživo. A budem si to nadosmrti vyčítať. Nie každý deň, ani nie zakaždým, keď začujem niektorú z ich piesní, ale dlhodobo ma bude prenasledovať ľútosť nad tým, že nikdy ich zvuk a show nezažijem na vlastné uši a oči. Jasné, [Jack White][19] žije a pokračuje vo svojich (podobne vynikajúcich) projektoch i sólovej kariére, ale Jack White nie je a nikdy ani nebol White Stripes. Bez [Meg][20] by kapela nebola tým, čím bola. Mnohí jej vyčítajú amatérske či detinské bubnovanie, ale osobne ho považujem za jednu z charakteristík kapely. [The Who][21] mali [Keitha Moona][22], jedného z najlepších bubeníkov všetkých čias, ktorého neskonale obdivujem, ale trúfam si povedať, že Meg a Keith boli rovnako dobrí, a to z toho dôvodu, že dodali svojej kapele presne to, čo potrebovala.

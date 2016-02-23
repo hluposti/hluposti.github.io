@@ -29,35 +29,35 @@ V nasledujúcej tabuľke je uvedených [30 filmov s najvyššími tržbami v rok
 | # | Film | Pôvod |
 | - | ---- | ----- |
 | 1. | <span style="color:red">Harry Potter and the Deathly Hallows Part 2</span> | sequel / adaptácia (kniha) |
-| 2. | Transformers: Dark of the Moon | sequel / remake (kreslený seriál) |
-| 3. | The Twilight Saga: Breaking Dawn Part 1 | sequel / adaptácia (kniha) |
-| 4. | The Hangover Part II | sequel |
-| 5. | Pirates of the Caribbean: On Stranger Tides | sequel |
-| 6. | Fast Five | sequel |
-| 7. | Cars 2 | sequel |
-| 8. | Thor | adaptácia (komiks) |
-| 9. | Rise of the Planet of the Apes | remake / prequel |
-| 10. | Captain America: The First Avenger | adaptácia (komiks) / (remake) |
+| 2. | <span style="color:red">Transformers: Dark of the Moon</span> | sequel / remake (kreslený seriál) |
+| 3. | <span style="color:red">The Twilight Saga: Breaking Dawn Part 1</span> | sequel / adaptácia (kniha) |
+| 4. | <span style="color:red">The Hangover Part II</span> | sequel |
+| 5. | <span style="color:red">Pirates of the Caribbean: On Stranger Tides</span> | sequel |
+| 6. | <span style="color:red">Fast Five</span> | sequel |
+| 7. | <span style="color:red">Cars 2</span> | sequel |
+| 8. | <span style="color:red">Thor</span> | adaptácia (komiks) |
+| 9. | <span style="color:red">Rise of the Planet of the Apes</span> | remake / prequel |
+| 10. | <span style="color:red">Captain America: The First Avenger</span> | adaptácia (komiks) / (remake) |
 | 11. | The Help | originál / adaptácia (kniha) |
 | 12. | Bridesmaids | originál |
-| 13. | Kung Fu Panda 2 | sequel |
-| 14. | X-Men: First Class | prequel |
-| 15. | Puss in Boots | spin-off |
+| 13. | <span style="color:red">Kung Fu Panda 2</span> | sequel |
+| 14. | <span style="color:red">X-Men: First Class</span> | prequel |
+| 15. | <span style="color:red">Puss in Boots</span> | spin-off |
 | 16. | Rio | originál |
-| 17. | The Smurfs | remake (kreslený seriál) |
-| 18. | Mission: Impossible – Ghost Protocol | sequel |
-| 19. | Sherlock Holmes: A Game of Shadows | sequel |
+| 17. | <span style="color:red">The Smurfs</span> | remake (kreslený seriál) |
+| 18. | <span style="color:red">Mission: Impossible – Ghost Protocol</span> | sequel |
+| 19. | <span style="color:red">Sherlock Holmes: A Game of Shadows</span> | sequel |
 | 20. | Super 8 | originál |
 | 21. | Rango  | originál |
 | 22. | Horrible Bosses | originál |
-| 23. | Green Lantern | adaptácia (komiks) |
+| 23. | <span style="color:red">Green Lantern</span> | adaptácia (komiks) |
 | 24. | Hop | originál |
-| 25. | Paranormal Activity 3 | sequel |
+| 25. | <span style="color:red">Paranormal Activity 3</span> | sequel |
 | 26. | Just Go With It | adaptácia (divadelná hra) |
 | 27. | Bad Teacher | originál |
-| 28. | Cowboys & Aliens | adaptácia (komiks) |
+| 28. | <span style="color:red">Cowboys & Aliens</span> | adaptácia (komiks) |
 | 29. | Gnomeo and Juliet | originál / adaptácia (divadelná hra) |
-| 30. | The Green Hornet  | remake (seriál) |
+| 30. | <span style="color:red">The Green Hornet</span>  | remake (seriál) |
 
 Ak si odmyslíme adaptácie kníh a divadelných hier, ktoré sa natáčajú od počiatku filmu, zostáva nám 20 (červeno zvýraznených) filmov. Záver: 66% distribúcie tvoria recykláty.
 
