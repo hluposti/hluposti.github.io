@@ -73,7 +73,6 @@ code {
   width: 100%;
 }
 
-
 /*
  * Container
  *
@@ -93,7 +92,11 @@ code {
     max-width: 38rem;
   }
 }
-
+@media (min-width: 60rem) {
+  .container {
+    max-width: 50rem;
+  }
+}
 
 /*
  * Masthead
