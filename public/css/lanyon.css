@@ -36,6 +36,7 @@
 
 @import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic&subset=latin,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,400italic,700,700italic&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Fira+Mono&subset=latin,latin-ext);
 
 /* Prevent scroll on narrow devices */
 
@@ -55,6 +56,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #313131;
 }
 
+code {
+  font-family: "Fira Mono", "Courier New", Courier, monospace;
+}
 
 /*
  * Wrapper
