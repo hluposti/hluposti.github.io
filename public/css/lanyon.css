@@ -92,7 +92,7 @@ code {
     max-width: 38rem;
   }
 }
-@media (min-width: 60rem) {
+@media (min-width: 64rem) {
   .container {
     max-width: 44rem;
   }
